@@ -15,10 +15,9 @@ There are 2 main parts to this project.
 
 - The programming language of choice here was Python 3
 - SQLite3
-- 
 - Selenium
 - BeautifulSoup (bs4)
-- HTML and CSS
+
 
 ## Demo
 
